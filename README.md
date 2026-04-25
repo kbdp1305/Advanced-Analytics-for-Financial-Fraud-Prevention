@@ -1,5 +1,5 @@
 
-# Risk Transaction Risk Clustering & Anomaly Detection
+# Risk Transaction Clustering & Anomaly Detection
 
 ## Overview
 This project performs an end-to-end exploratory data analysis (EDA), anomaly detection, clustering, and strategic decision modeling on bank transaction data to identify and manage high-risk transactions. It balances financial profitability with user experience constraints.
