@@ -61,5 +61,5 @@ README.md
 
 ## Author
 **Krisna Bayu Dharma Putra**
-Email: [dharma.work.dev@gmail.com](mailto:dharma.work.dev@gmail.com)
-GitHub: https://github.com/kbdp1305
+* Email: [dharma.work.dev@gmail.com](mailto:dharma.work.dev@gmail.com)
+* GitHub: https://github.com/kbdp1305
